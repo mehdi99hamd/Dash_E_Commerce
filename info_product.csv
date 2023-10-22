@@ -1,42 +1,29 @@
 page,product_name,code_google,produit,cout,collection
-/products/aspirateur-de-points-noirs,aspirateur,7250548064434',Aspirateur a points noirs,11,soin de visage
-/products/masque-points-noirs-base-de-the-vert,maskgreen,8341821948238',Masque Points Noirs A Base De The Vert,5.6,soin de visage
-/products/epilateur-laser-permanent,laser,8341821325646',Epilateur Laser Permanent,23,soin de peau
-/products/correcteur-de-posture,belt,8351700320590',Correcteur De Posture,8,bien etre
-/products/slides-sandales-claquettes,sandale,8351939363150',Slides - Sandales Claquettes Legers - Pantoufles Confortables,12,vie saine
-/products/attelle-pour-hallux-valgus,attelle,8341823324494',Attelle Pour Hallux Valgus,4,bien etre
-/products/correcteur-de-posture-avec-partie-ceinturee,belt back,8351798559054',Correcteur De Posture Avec Partie Ceinturee,13,bien etre
-/products/epilateur-gomme-en-cristal,epilateur,8341823357262',Epilateur Gomme En Cristal,7,soin de peau
-/products/mixeur-blender-portable-freshjuice,freshjuice,8341821129038',Mixeur-Blender Portable FreshJuice,28,vie saine
-/products/mini-mixeur-blender-portable,blender mini,8351648186702',Mini Mixeur-Blender Portable,23,vie saine
-/products/lampes-uv-anti-moustiques,moustiques,8341821227342',Lampes UV Anti-Moustiques,9.3,vie saine
-/products/mini-rasoir-electrique-portable-lavable,rasoir,8341823390030',Mini Rasoir Electrique Portable Lavable,9.2,vie saine
-/products/masseur-cervicale,masseur,8341821161806',Masseur Cervicale,8.8,bien etre
-/products/epilateur-sourcils,sourcils,8341821260110',Epilateur Sourcils,7.2,soin de peau
-/products/gomme-rape-pieds,gomme rape,8351335088462',Gomme Rape A Pieds Anti-Callosites,6.5,soin de peau
-/products/ponceuse-anti-callosites,pendeuse,8341822898510',Ponceuse Anti-Callosites - Rape A Pieds Electrique,9.2,soin de peau
-/products/claquettes-confortables,slides,8351936282958',Claquettes Confortables - Sandales Antiderapantes,9.4,vie saine
-/products/gomme-depilatoire-circulaire-v2,epilateur v2,8351329485134',Gomme Depilatoire Circulaire V2,7.6,soin de peau
-/products/dentifrice-de-blanchiment-des-dents,serum,8341822800206',Dentifrice De Blanchiment Des Dents - Colour Corrector,7,soin de visage
-/products/ceinture-chauffante-menstruelle,period,8341821358414',Ceinture Chauffante Menstruelle,10,bien etre
-/products/rape-pieds-electrique,rape,8351406555470',Rape A Pieds Electrique,7.5,soin de peau
-/products/brosse-lissante-ceramique-multifonctionnelle,peigne,8341822767438',Brosse Lissante Ceramique Multifonctionnelle - Lisseur De Cheveux,12.68,vie saine
-/products/epileateur-electrique-a-micro-oscillation,epilateur zero,8341822636366',Epilateur Electrique A Micro-Oscillation - Epilateur Sans Douleur,8.5,soin de peau
-/products/jade-roller,jade,8341822734670',Jade Roller - Rouleau En Quartz Jade Naturelle - Rouleau Et Gua Sha En Jade,12,soin de visage
-/products/rouleau-en-pierre-volcanique,rouleau,8341822669134',Rouleau En Pierre Volcanique Absorbant Du Sebum Du Visage,2.61,soin de visage
-/products/genouillere-protection-et-maintien-articulaire,genouillere,8351839256910',Genouillere - Protection Et Maintien Articulaire,10.5,bien etre
-/products/24pcs-faux-ongles-detachables-1,faux ongles,8535631036750',24PCS Faux Ongles Detachables,3.2,beaute innovante
-/products/crayon-eye-liner-impermeable,eye liner,8515151790414',Crayon Eye-liner Impermeable,2,beaute innovante
-/products/culottes-menstruelles-sans-couture-4-couches-anti-fuite,culotte,8564976877902',Culottes Menstruelles Sans Couture 4 Couches Anti-Fuite,5.45,vie saine
-/products/detartreur-dentaire-ultrasons,detartreur,8473142264142',Detartreur Dentaire a Ultrasons,5,soin de visage
-/products/epurateur-de-peau-ultrasons,epurateur,8488751268174',Epurateur De Peau A Ultrasons,10.3,soin de visage
-/products/fond-de-teint-couvrant-naturel-1,fond teint,8508513517902',Fond De Teint Couvrant BB Naturel - Tete Champignon Maquillage,6,beaute innovante
-/products/lampe-uv-seche-ongles,seche ongles,8508545171790',Lampe UV Seche-Ongles,7,beaute innovante
-/products/masseur-facial-et-mandibulaire,masseur facial,8486866551118',Masseur Facial Et Mandibulaire - Appareil Anti Rides,12,soin de visage
-/products/mini-tonifiant-visage-electrique,tonifiant,8547682943310',Mini Tonifiant Visage Electrique,11,soin de visage
-/products/pochoir-eyeliner-en-silicone,pochoir,8514891776334',Pochoir Eyeliner En Silicone,0.55,beaute innovante
-/products/epilateur-electrique-4-en-1,rasoir 4 1,8534125248846',Rasoir Electrique 4 en 1 Pour Femmes,6,soin de peau
-/products/rasoir-facial-electrique,rasoir facial,8473025413454',Rasoir Facial Electrique,2,soin de peau
-/products/recourbe-cils-chauffant-electrique-1,cils,8526439842126',Recourbe-cils Chauffant Electrique,7.65,beaute innovante
-/products/stylo-laser-pour-acne,stylo acne,8537916178766',Stylo Laser Pour Acne,5,soin de visage
-/products/patch-anti-points-noirs,patch acne,8578011005262',Patch Anti-Points Noirs,2.7,soin de visage
+/products/product_path,product_surnom,71250548064434',product_name
+/products/product_path,product_surnom,71250548064434',product_name
+/products/product_path,product_surnom,71250548064434',product_name
+/products/product_path,product_surnom,71250548064434',product_name
+/products/product_path,product_surnom,71250548064434',product_name
+/products/product_path,product_surnom,71250548064434',product_name
+/products/product_path,product_surnom,71250548064434',product_name
+/products/product_path,product_surnom,71250548064434',product_name
+/products/product_path,product_surnom,71250548064434',product_name
+/products/product_path,product_surnom,71250548064434',product_name
+/products/product_path,product_surnom,71250548064434',product_name
+/products/product_path,product_surnom,71250548064434',product_name
+/products/product_path,product_surnom,71250548064434',product_name
+/products/product_path,product_surnom,71250548064434',product_name
+/products/product_path,product_surnom,71250548064434',product_name
+/products/product_path,product_surnom,71250548064434',product_name
+/products/product_path,product_surnom,71250548064434',product_name
+/products/product_path,product_surnom,71250548064434',product_name
+/products/product_path,product_surnom,71250548064434',product_name
+/products/product_path,product_surnom,71250548064434',product_name
+/products/product_path,product_surnom,71250548064434',product_name
+/products/product_path,product_surnom,71250548064434',product_name
+/products/product_path,product_surnom,71250548064434',product_name
+/products/product_path,product_surnom,71250548064434',product_name
+/products/product_path,product_surnom,71250548064434',product_name
+/products/product_path,product_surnom,71250548064434',product_name
+/products/product_path,product_surnom,71250548064434',product_name
+/products/product_path,product_surnom,71250548064434',product_name
